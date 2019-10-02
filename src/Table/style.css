@@ -1,0 +1,13 @@
+#table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: green;
+    width: 570px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#score {
+    text-align: center;
+}
